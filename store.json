@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sparky",
+        "DOB": "2000-02-18 00:00:00",
+        "Addharr": "123456789012",
+        "Phone_number": 1234567890,
+        "Pan": "aaaaa1234a",
+        "Father_name": "ramesh",
+        "Mother_name": "hoshila",
+        "account_number": "76345992721799",
+        "Pin": "$2b$12$xlNzDP5kq3mj87/56FgUL.x4JGkQc5iwgOotybxTLlmAjGXnb.pcC",
+        "balance": 421750,
+        "Account creation time": "17:48 on 2025-09-10",
+        "transactions": [
+            {
+                "type": "Withdraw",
+                "amount": 300,
+                "time": "2025-09-26 18:56"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 50,
+                "time": "2025-09-26 19:45"
+            }
+        ]
+    }
+]

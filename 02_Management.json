@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "afds",
+        "Phone_Number": "1234567890",
+        "Amount_Paid": 300,
+        "Unique code": "9945008",
+        "type": "Weekly",
+        "Time": "1:9 on 2025-09-27",
+        "Time_time": 1758915553.6032872
+    },
+    {
+        "Name": "Sparky",
+        "Phone_Number": "1234567890",
+        "Amount_Paid": 50,
+        "Unique code": "2192762",
+        "type": "Daily",
+        "Time": "15:0 on 2025-11-05",
+        "Time_time": 1762335028.8660393
+    }
+]

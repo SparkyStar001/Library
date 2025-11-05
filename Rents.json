@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "Sparky",
+        "Book": "The Alchemist",
+        "Days": 4,
+        "Cost": 256,
+        "Borrow_Time": "2025-11-05 15:08:23",
+        "Returned": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {"title": "Atomic Habits", "author": "James Clear", "price": "499"},
+    {"title": "Ikigai", "author": "Héctor García", "price": "350"},
+    {"title": "Rich Dad Poor Dad", "author": "Robert Kiyosaki", "price": "450"},
+    {"title": "The Power of Habit", "author": "Charles Duhigg", "price": "380"},
+    {"title": "Think and Grow Rich", "author": "Napoleon Hill", "price": "420"},
+    {"title": "Deep Work", "author": "Cal Newport", "price": "510"},
+    {"title": "The Subtle Art of Not Giving a F*ck", "author": "Mark Manson", "price": "399"},
+    {"title": "The Alchemist", "author": "Paulo Coelho", "price": "320"},
+    {"title": "Sapiens", "author": "Yuval Noah Harari", "price": "650"},
+    {"title": "A Brief History of Time", "author": "Stephen Hawking", "price": "550"},
+    {"title": "Wings of Fire", "author": "A. P. J. Abdul Kalam", "price": "300"},
+    {"title": "The Psychology of Money", "author": "Morgan Housel", "price": "380"},
+    {"title": "Harry Potter and the Philosopher's Stone", "author": "J. K. Rowling", "price": "450"},
+    {"title": "1984", "author": "George Orwell", "price": "360"},
+    {"title": "To Kill a Mockingbird", "author": "Harper Lee", "price": "410"},
+    {"title": "The Hobbit", "author": "J. R. R. Tolkien", "price": "520"},
+    {"title": "Zero to One", "author": "Peter Thiel", "price": "480"},
+    {"title": "The Lean Startup", "author": "Eric Ries", "price": "530"},
+    {"title": "Start With Why", "author": "Simon Sinek", "price": "460"},
+    {"title": "How to Win Friends and Influence People", "author": "Dale Carnegie", "price": "390"}
+]
